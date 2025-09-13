@@ -22,7 +22,8 @@ Este diagrama representa la estructura relacional del modelo de datos para el an
 - **Internaciones**: tabla de hechos que registra cada episodio clínico, incluyendo diagnóstico de ingreso/egreso, duración y tipo de egreso.
 - **Efectores**: representa los centros de atención, con atributos como nombre, sector de egreso y servicio de internación.
 
-![Diagrama ERD](data/Diagrama.png)
+![Diagrama ERD](data/diagrama.png)
+
 
 ## 🔗 Acceso al dashboard
 [Ver dashboard en Looker Studio](https://lookerstudio.google.com/reporting/a90f50d9-86f6-4a44-b750-e2023417003e)
