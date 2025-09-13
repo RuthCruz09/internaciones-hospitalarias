@@ -34,7 +34,7 @@ Este diagrama representa la estructura relacional del modelo de datos para el an
 ## 📊 Insights destacados
 
 - El diagnóstico más frecuente en los tres años de análisis fue Anomalía dinámica del trabajo de parto, con mayor prevalencia en pacientes entre 19-29 años.
-- El efector con mayor carga asistencial fue el [Hospital Infantil “Dr. Víctor J. Vilela] , concentrando el 35% de las internaciones.
+- El efector con mayor carga asistencial fue el Hospital Infantil “Dr. Víctor J. Vilela , concentrando el 35% de las internaciones.
 - La duración promedio de internación fue de 3.32 días, con variaciones según servicio y tipo de egreso.
 
 ##  Autora
